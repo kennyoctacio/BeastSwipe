@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
-<Weapons>
-	<Weapon id="1" category="common">
-		<Name>Dagger</Name>
+<WeaponLists>
+   <Weapons>
+	<Weapon id="1" category="common" icon="Iron_Dagger">
+		<Name>Iron Dagger</Name>
+		<ClassReq>Warrior</ClassReq>
 		<Damage>11</Damage>
 		<Price>50</Price>
 	</Weapon>
-	<Weapon id="2" category="common">
-		<Name>Shield</Name>
+	<Weapon id="2" category="common" icon="Wooden_Shield">
+		<Name>Wooden Shield</Name>
+		<ClassReq>Warrior</ClassReq>
+		<ClassReq>Basher</ClassReq>
 		<Durability>1</Durability>
 		<Price>50</Price>
 	</Weapon>
-</Weapons>
+	<Weapon id="3" category="common" icon="Wooden_Staff">
+		<Name>Wooden Staff</Name>
+		<ClassReq>Magician</ClassReq>
+		<Intelligence>1</Intelligence>
+		<Price>50</Price>
+	</Weapon>
+   </Weapons>
+</WeaponLists>

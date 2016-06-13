@@ -17,5 +17,13 @@
 		<bAgi>2</bAgi>
 		<bInt>2</bInt>
 	</Class>
+	<Class name="Magician">
+		<bHp>200</bHp>
+		<bMp>50</bMp>
+		<bStr>1</bStr>
+		<bDur>2</bDur>
+		<bAgi>2</bAgi>
+		<bInt>2</bInt>
+	</Class>
   </Classes>
 </ClassLists>

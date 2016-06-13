@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Weapons>
+	<Weapon id="1" category="common">
+		<Name>Dagger</Name>
+		<Damage>11</Damage>
+		<Price>50</Price>
+	</Weapon>
+	<Weapon id="2" category="common">
+		<Name>Shield</Name>
+		<Durability>1</Durability>
+		<Price>50</Price>
+	</Weapon>
+</Weapons>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<PlayerSaves xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlayerStatus>
+    <Player slot="1">
+      <playerName>Ahmed</playerName>
+      <playerClass>Warrior</playerClass>
+      <head>0</head>
+      <armor>0</armor>
+      <wep1>0</wep1>
+      <wep2>0</wep2>
+      <str>0</str>
+      <dur>0</dur>
+      <agi>0</agi>
+      <intel>0</intel>
+    </Player>
+    <Player slot="2">
+      <playerName>Bahmed</playerName>
+      <playerClass>Basher</playerClass>
+      <head>0</head>
+      <armor>0</armor>
+      <wep1>0</wep1>
+      <wep2>0</wep2>
+      <str>0</str>
+      <dur>0</dur>
+      <agi>0</agi>
+      <intel>0</intel>
+    </Player>
+    <Player slot="3">
+      <playerName>Cehmed</playerName>
+      <playerClass>Warrior</playerClass>
+      <head>0</head>
+      <armor>0</armor>
+      <wep1>0</wep1>
+      <wep2>0</wep2>
+      <str>0</str>
+      <dur>0</dur>
+      <agi>0</agi>
+      <intel>0</intel>
+    </Player>
+  </PlayerStatus>
+</PlayerSaves>

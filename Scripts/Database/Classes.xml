@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ClassLists xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Classes>
+    <Class name="Warrior">
+		<bHp>100</bHp>
+		<bMp>50</bMp>
+		<bStr>1</bStr>
+		<bDur>2</bDur>
+		<bAgi>2</bAgi>
+		<bInt>2</bInt>
+	</Class>
+	<Class name="Basher">
+		<bHp>200</bHp>
+		<bMp>50</bMp>
+		<bStr>1</bStr>
+		<bDur>2</bDur>
+		<bAgi>2</bAgi>
+		<bInt>2</bInt>
+	</Class>
+  </Classes>
+</ClassLists>

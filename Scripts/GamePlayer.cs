@@ -3,26 +3,19 @@ using System.Xml.Serialization;
 
 public class GamePlayer {
 
-	[XmlAttribute("slot")]
+	[XmlAttribute("slot")] // atribut
 	public int slot;
 
 	public string playerName;
 	public string playerClass;
 
-	public int head;
-	public int armor;
-	public int wep1;
-	public int wep2;
-	public int str;
-	public int dur;
-	public int agi;
-	public int intel;
-
-	/*
-	public PlayerClass myClass;
-	public PlayerWeapon myWeapon1;
-	public PlayerWeapon myWeapon2;
-
-	*/
+	public int head; // Armor Kepala
+	public int armor; // Armor badan
+	public int wep1; // Tangan 1
+	public int wep2; // Tangan 2
+	public int str; // Strength
+	public int dur; // Durability
+	public int agi; // Agility
+	public int intel; // Intelligence
 
 }
